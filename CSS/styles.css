@@ -1,0 +1,247 @@
+/* Home Page */
+.body {
+    background-color: black;
+}
+
+.header {
+    background-color: black;
+    width: auto;
+    height: 35px;
+    color: grey;
+    border: 15px solid black ;
+    padding: 20px 10px;
+    padding-right: 300px;
+  }
+
+
+.header a {
+    position: relative;
+    bottom: 75px;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    padding-bottom: 50px;
+    text-decoration: none;
+    font-size: 25px;
+    line-height: 25px;
+    border-radius: 4px;
+  }
+.header .logo {
+    position: relative;
+    bottom: 20px;
+    width: 75px;
+    height: 75px;
+    border-radius: 100%;
+  }
+
+.header a:hover {
+    color: rgb(140, 134, 115);
+  }
+
+.header-right a.active {
+    background-color: dodgerblue;
+    color: white;
+  }
+
+.header .header-right {
+    text-align: center;
+    padding-left: 400px;
+    padding-bottom: 20px;
+}
+.Our-story {
+    padding-bottom: 30px;
+    font-family: 'Franklin Gothic Medium';
+    color: darkred;
+}
+
+
+.Services {
+    padding-bottom: 10px;
+    font-family: 'Franklin Gothic Medium';
+    color: darkred;
+}
+
+
+.contact {
+    padding-bottom: 10px;
+    font-family: 'Franklin Gothic Medium';
+    color: darkred;
+}
+
+.home-home{
+    padding-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+
+}
+
+.slogan {
+    position: absolute;
+    z-index: 9;
+    border: 15px solid white;
+    background-color: black;
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 600px;
+    height: 700px;
+
+}
+
+.slogan_h {
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20mm;
+    padding-left: 10px;
+}
+
+.slogan_p {
+    color: white;
+    font-family: 'Franklin Gothic Medium';
+    font-size: large;
+    text-align: center;
+    padding: 10px;
+}
+
+.sl_lm {
+    border: 5px solid white;
+    width: 95px;
+    height: 25px;
+    margin-left: 252.5px;
+    background-color: white;
+    text-align: center;
+
+}
+
+.slogan a:hover {
+    color: grey;
+}
+
+.stocks {
+    float: right;
+    width: auto;
+    height: auto;
+}
+
+.home_grow {
+    border: 15px solid white;
+    width: auto;
+    height: 255px;
+    margin: 10px;
+}
+
+.grow_h {
+    display: block;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 11mm;
+    color: white;
+    text-align: center;
+}
+
+.grow_p {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 7mm;
+    font-weight: 50;
+    color: white;
+    text-align: center;
+    margin: 10mm;
+}
+
+.grow_lm {
+    border: 5px solid white;
+    width: 95px;
+    height: 25px;
+    margin: 5px;
+    background-color: white;
+    text-align: center;
+}
+
+.grow_lm_a {
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.home_grow a:hover {
+    color: grey;
+}
+/*Our Story*/
+
+.back-home-story {
+    margin-top: 15px;
+    padding-left: 10px;
+    font-family: 'Franklin Gothic Medium';
+    color: darkred;
+}
+
+.logo_about {
+    width: 30px;
+    height: 40px;
+    border-radius: 100%;
+}
+
+
+
+/* Our Services */
+
+.home-serv {
+    padding-left: 10px;
+    font-family: 'Franklin Gothic Medium';
+    color: darkred;
+}
+
+div.list {
+    width: auto;
+    border: 15px solid grey;
+    padding: 20px;
+    margin: 20px;
+    text-align: justify;
+    padding-left: 350px;
+}
+
+.heading {
+ text-align: center;
+ padding-left: 40px;
+}
+
+.ourstory {
+    width: auto;
+    border: 15px solid grey;
+    padding: 20px;
+    margin: 20px;
+    text-align: justify;
+}
+
+/* Contact Us */
+.home-contact {
+    padding-left: 10px;
+    font-family: 'Franklin Gothic Medium';
+    color: darkred;
+    }
+
+.email {
+    color: crimson;
+}
+
+.email-p {
+    padding-left: 320px;
+}
+
+.para-email {
+    width: auto;
+    height: auto;
+    border: 15px solid grey;
+    padding: 20px;
+    margin: 20px;
+}
+
+.con-heading {
+    padding-left: 350px;
+}
+
+.phone {
+    padding-left: 331px;
+
+}
